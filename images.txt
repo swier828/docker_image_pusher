@@ -1,2 +1,2 @@
-python:3.9.25-slim
+heartexlabs/label-studio-ml-backend:sa2-20251017.122041-master-17c7f9c
 
