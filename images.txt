@@ -1,2 +1,2 @@
-heartexlabs/label-studio-ml-backend:sa2-20251017.122041-master-17c7f9c
+nvidia/cuda:12.6.2-base-ubuntu22.04
 
